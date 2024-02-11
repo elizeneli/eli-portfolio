@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "SAP SE",
+      "startDate": "July, 2023",
+      "endDate": "Dec. 2023",
+      "experiences": ["Worked on Datasphere", "Bug fixing issues, feature development, mock designs"],
+      "imageSrc": "history/sap.png"
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "Centralsoft",
+      "startDate": "Feb. 2023",
+      "endDate": "May, 2023",
+      "experiences": ["Migrated a project with React and GraphQL to Next.js"],
+      "imageSrc": "history/centralsoft.png"
+    },
+    {
+      "role": "Technical Support & Software Developer",
+      "organisation": "Rikont",
+      "startDate": "June, 2021",
+      "endDate": "Feb. 2022",
+      "experiences": [
+        "Provided technical support for businesses",
+        "Wrote SQL scripts for database management"
+      ],
+      "imageSrc": "history/rikont.png"
+    }
+  ]

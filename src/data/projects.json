@@ -1,0 +1,26 @@
+[
+    {
+      "title": "QR Code Scanner",
+      "imageSrc": "projects/qrcode.png",
+      "description": "This is a project made to practice Javascript.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/elizeneli/qrcode"
+    },
+    {
+      "title":"Weather",
+      "imageSrc": "projects/weather.png",
+      "description": "This is a project made to learn more about APIs",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/elizeneli/weather"
+    },
+    {
+      "title": "Calculator",
+      "imageSrc": "projects/calculator.png",
+      "description": "This is a project made to practice Javascript.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/elizeneli/Calculator"
+    }
+  ]
